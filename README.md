@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={libe_bluxxbxry
-})](https://solved.ac/{libe_bluxxbxry})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={libe_bluxxbxry})](https://solved.ac/{libe_bluxxbxry})
 <!--
 **chock-cho/chock-cho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
