@@ -5,8 +5,10 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=libe_bluxxbxry)](https://solved.ac/libe_bluxxbxry)
 <!--
 **chock-cho/chock-cho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="https://img.shields.io/badge/JAVA-FFCA28?style=flat-square&logo=JAVA&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-FFCA28?style=flat-square&logo=Spring&logoColor=white"/>
+<a href="https://velog.io/@christer10"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+## 🔗 My Skills...
+
+## ⚒️ I'm Studying on...
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
