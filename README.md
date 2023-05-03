@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi! I am chock-cho 👋
+
+---
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=libe_bluxxbxry)](https://solved.ac/libe_bluxxbxry)
 <!--
