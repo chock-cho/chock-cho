@@ -3,7 +3,7 @@
 # Hi :) I'm chock-cho 👋
 <div align="center">
 
-## 🎶 Here's my Blog!
+## 😎 Here's my Blog!
   <a href="https://velog.io/@christer10"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a><br></br>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=libe_bluxxbxry)](https://solved.ac/libe_bluxxbxry)
 <br></br>
