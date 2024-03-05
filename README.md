@@ -8,9 +8,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hi+👀+I'm+chock-cho🫶&font=Redressed&size=40)](https://git.io/typing-svg)
  
  ❤️🖥️ I'm an undergraduate student studying **<u>Computer Science&Engineering in Ewha Women's University, Korea</u>**. 
-* Advance to final at EWHA Wi-Corps Entrepreneurship Competition
-* won the 3rd prize at E-PPER 21st Programming Contest 
-
+* 이화 Wi-Corps 경진대회 본선진출
+* 교내 프로그래밍 경진대회 E-PPER 장려상 수상
 
 <br></br>
 
