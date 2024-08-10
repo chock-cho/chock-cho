@@ -9,7 +9,7 @@
  <u> I strive to be a diligent **Back-End & DevOps developer**! </u>
 
 * 이화 Wi-Corps 경진대회 본선진출
-* 교내 프로그래밍 경진대회 E-PPER 장려상 수상
+* E-PPER 알고리즘 경진대회 E-PPER 장려상 수상
 
 <br></br>
 
