@@ -1,4 +1,4 @@
-- 🐳 <mark>**YAPP 25th- Server** </mark>  &nbsp;(2024.11 ~) </br>
-- 🐳 <mark>**UMC 7th- Server Central & Ewha Lead** </mark> &nbsp; (2024.08 ~)</br>
-- 🐋<mark> **UMC 5th, 6th- Server Challenger** </mark>  &nbsp;(2023.09 ~ 2024.07)</br>
-- 🐋<mark> **Yonsei Workstation- Server** </mark>  &nbsp;(2023.09 ~ 2024.06)</br>
+- 🐳 **YAPP 25th- Server**   &nbsp;(2024.11 ~) </br>
+- 🐳 **UMC 7th- Server Central & Ewha Lead**  &nbsp; (2024.08 ~)</br>
+- 🐋 **UMC 5th, 6th- Server Challenger**  &nbsp;(2023.09 ~ 2024.07)</br>
+- 🐋 **Yonsei Workstation- Server**   &nbsp;(2023.09 ~ 2024.06)</br>
